@@ -1,4 +1,4 @@
-# Vincula Inteligente para <a href="https://twitter.com/hashtag/HackatonBBVA2021?src=hashtag_click">#HackathonBBVA2021</a>
+# Vincula Inteligente para <a href="https://twitter.com/BBVAInnovation">#HackathonBBVA2021</a>
 
 ## Problema a solucionar 
 
@@ -10,7 +10,7 @@
 ### Lo que queremos hacer:
 
 * Usar métodos de clustering para separar los datos, y a partir de estos sacar las conclusiones necesarias para hallar el como optimizazar y maximizar la rentabilidad.
-* https://dzone.com/articles/kmeans-silhouette-score-explained-with-python-exam
+* <a href="https://dzone.com/articles/kmeans-silhouette-score-explained-with-python-exam">K-means Silhouette Score</a>
 
 ## Herramientas a usar
 
@@ -45,5 +45,4 @@ Presenta problemas de robustez frente a outliers. La única solución es excluir
 
 ## Análisis de la base datos:
 
-* CAMPO (Número de documento): no aporta valor, se puede obviar
-* CAMPO(DEPENDIENTES, SITUACION_LABORAL, TIPO_EMPLEO, TIPO_PROFESION) 
+Pendientes
